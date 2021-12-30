@@ -1,3 +1,10 @@
 # Inferno-Run
 Unreal Engine 5 Game Project <br />
-Main Menu located at "content/MainMenu"
+Main Menu located at "content/MainMenu" <br />
+
+
+Music used <br />
+Song: Rival - Lonely Way (ft. Caravn) [NCS Release] <br />
+Music provided by NoCopyrightSounds. <br />
+Watch: https://youtu.be/s0YJhnVEgMw <br />
+Free Download / Stream: http://ncs.io/LonelyWay <br />
