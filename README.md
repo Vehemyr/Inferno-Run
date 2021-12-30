@@ -1,2 +1,3 @@
 # Inferno-Run
-Game Project
+Unreal Engine 5 Game Project
+Main Menu located at "content/MainMenu"
