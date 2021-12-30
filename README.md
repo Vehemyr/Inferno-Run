@@ -1,7 +1,7 @@
 # Inferno-Run
 Unreal Engine 5 Game Project <br />
 Main Menu located at "content/MainMenu" <br />
-Demo: ![Game Demo](https://www.youtube.com/watch?v=WyW9cDi9WEE)
+Demo: [![Game Demo](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/WyW9cDi9WEE)
 <br />
 <br />
 Music used <br />
